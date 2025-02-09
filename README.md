@@ -3,7 +3,7 @@ S1.01-Ex2-Herencia-y-polimorfismo-Nivel1
 
 ## 📄 Descripción 
 
-Este proyecto implementa una jerarquía de clases de instrumentos musicales en Java, demostrando principios de programación orientada a objetos como la herencia y el polimorfismo. El proyecto incluye clases base para instrumentos musicales e implementaciones específicas para distintos tipos de instrumentos, con especial atención a los instrumentos de percusión.
+Este proyecto implementa una jerarquía de clases en Java, demostrando principios de programación orientada a objetos como la herencia y el polimorfismo. 
 
 ## 💻 Tecnologías Utilizadas
 
